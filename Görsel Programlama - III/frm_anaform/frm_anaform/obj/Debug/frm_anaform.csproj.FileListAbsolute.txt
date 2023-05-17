@@ -1,0 +1,46 @@
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\bin\Debug\frm_anaform.exe.config
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\bin\Debug\frm_anaform.exe
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\bin\Debug\frm_anaform.pdb
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.csprojResolveAssemblyReference.cache
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.anaform.resources
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.Form1.resources
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.Properties.Resources.resources
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.csproj.GenerateResource.Cache
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.exe
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.pdb
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.musteri_guncelle.resources
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.Musteri_kayit.resources
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.Musteri_Liste.resources
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.kullanici_ekle.resources
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.kullanici_guncelle.resources
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.kullanici_liste.resources
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.katagoriekle.resources
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.katagori_guncelle.resources
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.katagori_listele.resources
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.urunlerliste.resources
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.urun_guncelle.resources
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.satiskayit.resources
+C:\Users\CAN\Desktop\ödev\frm_anaform\frm_anaform\obj\Debug\frm_anaform.satislistele.resources
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\bin\Debug\frm_anaform.exe.config
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.exe
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.pdb
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\bin\Debug\frm_anaform.exe
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\bin\Debug\frm_anaform.pdb
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.csprojResolveAssemblyReference.cache
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.anaform.resources
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.Form1.resources
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.katagoriekle.resources
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.katagori_guncelle.resources
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.katagori_listele.resources
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.kullanici_ekle.resources
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.kullanici_guncelle.resources
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.kullanici_liste.resources
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.musteri_guncelle.resources
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.musteri_kayit.resources
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.musteri_liste.resources
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.Properties.Resources.resources
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.satiskayit.resources
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.satislistele.resources
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.urunlerliste.resources
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.urun_guncelle.resources
+C:\Users\CAN\Desktop\Görsel Programlama\frm_anaform\frm_anaform\obj\Debug\frm_anaform.csproj.GenerateResource.Cache

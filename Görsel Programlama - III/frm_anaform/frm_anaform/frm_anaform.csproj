@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{34DE9BD0-F6F0-4A19-96C8-00F31B27A0F3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>frm_anaform</RootNamespace>
+    <AssemblyName>frm_anaform</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="anaform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anaform.Designer.cs">
+      <DependentUpon>anaform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="katagoriekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="katagoriekle.Designer.cs">
+      <DependentUpon>katagoriekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="katagori_guncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="katagori_guncelle.Designer.cs">
+      <DependentUpon>katagori_guncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="katagori_listele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="katagori_listele.Designer.cs">
+      <DependentUpon>katagori_listele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kullanici_ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kullanici_ekle.Designer.cs">
+      <DependentUpon>kullanici_ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kullanici_guncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kullanici_guncelle.Designer.cs">
+      <DependentUpon>kullanici_guncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kullanici_liste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kullanici_liste.Designer.cs">
+      <DependentUpon>kullanici_liste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteri_guncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteri_guncelle.Designer.cs">
+      <DependentUpon>musteri_guncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteri_kayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteri_kayit.Designer.cs">
+      <DependentUpon>musteri_kayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteri_liste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteri_liste.Designer.cs">
+      <DependentUpon>musteri_liste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="satiskayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="satiskayit.Designer.cs">
+      <DependentUpon>satiskayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="satislistele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="satislistele.Designer.cs">
+      <DependentUpon>satislistele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="urunlerliste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="urunlerliste.Designer.cs">
+      <DependentUpon>urunlerliste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="urun_guncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="urun_guncelle.Designer.cs">
+      <DependentUpon>urun_guncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="veritabani_sinifi.cs" />
+    <EmbeddedResource Include="anaform.resx">
+      <DependentUpon>anaform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="katagoriekle.resx">
+      <DependentUpon>katagoriekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="katagori_guncelle.resx">
+      <DependentUpon>katagori_guncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="katagori_listele.resx">
+      <DependentUpon>katagori_listele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kullanici_ekle.resx">
+      <DependentUpon>kullanici_ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kullanici_guncelle.resx">
+      <DependentUpon>kullanici_guncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kullanici_liste.resx">
+      <DependentUpon>kullanici_liste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteri_guncelle.resx">
+      <DependentUpon>musteri_guncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteri_kayit.resx">
+      <DependentUpon>musteri_kayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteri_liste.resx">
+      <DependentUpon>musteri_liste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="satiskayit.resx">
+      <DependentUpon>satiskayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="satislistele.resx">
+      <DependentUpon>satislistele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="urunlerliste.resx">
+      <DependentUpon>urunlerliste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="urun_guncelle.resx">
+      <DependentUpon>urun_guncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
